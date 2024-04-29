@@ -9,7 +9,7 @@ My name is Mateusz Bizoń, I am 24 years old and I live in Jerzmanki (2 km from 
 - 🔭 My skills: Html, CSS, JavaScript, SCSS, Git, React, TailwindCSS, Next.js
 - 📫 How to reach me:
 
-<div style="margin-left: 100px">
+<div>
   <a href="https://www.linkedin.com/in/mateusz-bizo%C5%84-ab5672304/">
     <img align="left" alt="Mateusz's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>

@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-My name is Mateusz Bizoń, I am 24 years old and I live in Jerzmanki (2 km from Zgorzelec). In March 2024, I completed my engineering studies at Collegium Witelon in Legnica, specialization: programming mobile and web applications.
+My name is Mateusz Bizoń, I am 24 years old and I live in Jerzmanki (2 km from Zgorzelec). In March 2024, I graduated in engineering studies at Collegium Witelona in Legnica, specialization: programming mobile and web applications.
 
 - 📚 I’m currently learning Next.js framework.
 - 👯 I’m looking for a job as a Junior React Front-end developer.

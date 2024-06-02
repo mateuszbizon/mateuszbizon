@@ -6,11 +6,5 @@ My name is Mateusz Bizoń, I am 24 years old and I live in Jerzmanki (2 km from 
 
 - 📚 I’m currently learning Next.js framework.
 - 👯 I’m looking for a job as a Junior React Front-end developer.
-- 🔭 My skills: Html, CSS, JavaScript, SCSS, Git, React, TailwindCSS, Next.js
+- 🔭 My skills: HTML, CSS, JavaScript, SCSS, Git, React
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mateusz-bizo%C5%84-ab5672304/) [Email](mailto:mat-biz@wp.pl) [Portfolio](https://portfoliomateuszbizon.netlify.app/)
-
-<div>
-  <a href="https://www.linkedin.com/in/mateusz-bizo%C5%84-ab5672304/" target="_blank">
-    <img align="left" alt="Mateusz's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-</div>

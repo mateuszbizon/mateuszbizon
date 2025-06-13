@@ -6,4 +6,4 @@ My name is Mateusz Bizoń. I am web developer with experience in Next.js. I am c
 
 - 📚 I’m currently learning Next.js framework.
 - 🔭 My skills: HTML, CSS, SCSS, TypeScript, Git, React, Next.js, TailwindCSS
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mateusz-bizo%C5%84-ab5672304/) [Email](mailto:mat-biz@wp.pl)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mateusz-bizo%C5%84-ab5672304/) [Email](mailto:mat-biz@wp.pl) [Portfolio](https://mateuszbizonportfolio.vercel.app/)
